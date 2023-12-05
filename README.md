@@ -1,6 +1,13 @@
 # recipe-app
 
-This template should help get you started developing with Vue 3 in Vite.
+Recipe Application
+
+# Built with
+  -VUE
+  -Flowbite
+  -TailwindElements
+  -Json-Live server
+Data:"[Food Ingredients and Recipes Dataset with Images](https://www.kaggle.com/datasets/pes12017000148/food-ingredients-and-recipe-dataset-with-images/data)">
 
 ## Recommended IDE Setup
 
