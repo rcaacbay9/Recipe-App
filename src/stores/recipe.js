@@ -25,7 +25,6 @@ export const useRecipeStore = defineStore('recipe', {
                     params: { q: this.search, _page: pageNumber, _limit: 9 },
                 });
                 const totalPages = parseInt(results.headers['x-total-count'] / 9, 10);
-                console.log(results);
                 this.pages = totalPages
                 this.items = results.data;
             } catch (error) {
