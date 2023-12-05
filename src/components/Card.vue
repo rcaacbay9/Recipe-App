@@ -33,7 +33,7 @@ const textLimit = (text, maxLength) => {
     return text
 }
 const imgUrl = computed(() => {
-    return 'dist/assets/food-image/' + imgName.value + '.jpg'
+    return '/dist/assets/food-image/' + imgName.value + '.jpg'
 })
 
 </script>
