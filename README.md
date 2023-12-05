@@ -3,10 +3,10 @@
 Recipe Application
 
 # Built with
-  -VUE
-  -Flowbite
-  -TailwindElements
-  -Json-Live server
+  - VUE
+  - Flowbite
+  - TailwindElements
+  - Json-Live server
 Data:"[Food Ingredients and Recipes Dataset with Images](https://www.kaggle.com/datasets/pes12017000148/food-ingredients-and-recipe-dataset-with-images/data)">
 
 ## Recommended IDE Setup
